@@ -19,7 +19,7 @@ Mutliple files is Good ha ha
 
 How can you use the commands git log and git diff to view the history of files?
 
-As tought ha ha
+As tought ha ha fun
 
 How might using version control make you more confident to make changes that could break something?
 
